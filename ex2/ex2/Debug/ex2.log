@@ -1,0 +1,29 @@
+﻿  ex2.cpp
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(63,13): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(65,13): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(216,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(233,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(894,9): warning C4101: 'course': unreferenced local variable
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(894,17): warning C4101: 'student_count': unreferenced local variable
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(941,14): error C2512: 'DateTime': no appropriate default constructor available
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(609,7): message : see declaration of 'DateTime'
